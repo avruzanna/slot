@@ -1,0 +1,5 @@
+
+> ruzan-task-ts@1.0.0 start /Users/zdergmann/work/projects/ruzan-task-ts
+> tsc app.ts && node app.js
+
+loop for  1000000000 takes  5602.277 seconds  win amount is: 5589546 winLines is: 2241173
