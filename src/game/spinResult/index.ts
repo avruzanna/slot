@@ -11,4 +11,3 @@ class SpinResult{
     }
 }
 export default SpinResult
-
